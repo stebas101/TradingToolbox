@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+.config.ini
+screener/
+screener/classes/__pycache__
