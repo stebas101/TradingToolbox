@@ -2,3 +2,4 @@
 .config.ini
 screener/
 screener/classes/__pycache__
+nb2blog.tpl
